@@ -78,7 +78,7 @@ li {
   width: 100%;
   overflow: hidden;
   object-fit: cover;
-  object-position: top center;
+  object-position: bottom center;
   grid-column: 1 / -1;
 }
 .post-date {
