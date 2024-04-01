@@ -71,7 +71,7 @@ li {
 .hero-section {
   display: grid;
   grid-template-columns: 1em auto 1em;
-  grid-template-rows: 5.4em auto auto;
+  grid-template-rows: 5.4em auto auto auto auto;
   color: #fff;
 }
 .hero-img {
