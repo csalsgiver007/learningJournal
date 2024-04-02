@@ -132,3 +132,25 @@ h2.hero-title {
 .article-text {
   margin: 0 0 1em 0;
 }
+.view-more {
+  margin: 1.6875rem 0 1.6875rem 0;
+  color: #090909;
+  font-size: 0.8125rem;
+  font-weight: 700;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.container-footer {
+  font-size: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #151515;
+  color: #fff;
+  height: 6.5625rem;
+}
+footer p {
+  margin: 0;
+}
